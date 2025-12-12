@@ -1,2 +1,2 @@
-# Deep-learning-models
-用来盘点一些深度学习模型
+# Machine-Learning
+用来盘点机器学习的一些算法和模型
